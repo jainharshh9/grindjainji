@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/jainharshh9/grindjainji/tree/master/2685-count-the-number-of-complete-components) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jainharshh9/grindjainji/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
