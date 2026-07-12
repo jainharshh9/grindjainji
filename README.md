@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/jainharshh9/grindjainji/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainharshh9/grindjainji/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -57,9 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jainharshh9/grindjainji/tree/master/0202-happy-number) |
+| [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/jainharshh9/grindjainji/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jainharshh9/grindjainji/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
