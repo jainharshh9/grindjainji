@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/jainharshh9/grindjainji/tree/master/1004-max-consecutive-ones-iii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/jainharshh9/grindjainji/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
