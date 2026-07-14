@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jainharshh9/grindjainji/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/jainharshh9/grindjainji/tree/master/1331-rank-transform-of-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jainharshh9/grindjainji/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainharshh9/grindjainji/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainharshh9/grindjainji/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jainharshh9/grindjainji/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jainharshh9/grindjainji/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jainharshh9/grindjainji/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainharshh9/grindjainji/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainharshh9/grindjainji/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jainharshh9/grindjainji/tree/master/0202-happy-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainharshh9/grindjainji/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/jainharshh9/grindjainji/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainharshh9/grindjainji/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
