@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/jainharshh9/grindjainji/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/jainharshh9/grindjainji/tree/master/0152-maximum-product-subarray) |
 | [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
+| [0986-interval-list-intersections](https://github.com/jainharshh9/grindjainji/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/jainharshh9/grindjainji/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jainharshh9/grindjainji/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/jainharshh9/grindjainji/tree/master/1331-rank-transform-of-an-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jainharshh9/grindjainji/tree/master/0202-happy-number) |
+| [0986-interval-list-intersections](https://github.com/jainharshh9/grindjainji/tree/master/0986-interval-list-intersections) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainharshh9/grindjainji/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainharshh9/grindjainji/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/jainharshh9/grindjainji/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
