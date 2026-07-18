@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/jainharshh9/grindjainji/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/jainharshh9/grindjainji/tree/master/0152-maximum-product-subarray) |
+| [0503-next-greater-element-ii](https://github.com/jainharshh9/grindjainji/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jainharshh9/grindjainji/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/jainharshh9/grindjainji/tree/master/0986-interval-list-intersections) |
@@ -139,9 +140,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/jainharshh9/grindjainji/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jainharshh9/grindjainji/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/jainharshh9/grindjainji/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jainharshh9/grindjainji/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
