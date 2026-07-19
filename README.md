@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/jainharshh9/grindjainji/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/jainharshh9/grindjainji/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainharshh9/grindjainji/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/jainharshh9/grindjainji/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jainharshh9/grindjainji/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainharshh9/grindjainji/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jainharshh9/grindjainji/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jainharshh9/grindjainji/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainharshh9/grindjainji/tree/master/3312-sorted-gcd-pair-queries) |
