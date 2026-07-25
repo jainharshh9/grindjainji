@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainharshh9/grindjainji/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/jainharshh9/grindjainji/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/jainharshh9/grindjainji/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainharshh9/grindjainji/tree/master/3312-sorted-gcd-pair-queries) |
@@ -111,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainharshh9/grindjainji/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/jainharshh9/grindjainji/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainharshh9/grindjainji/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/jainharshh9/grindjainji/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainharshh9/grindjainji/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jainharshh9/grindjainji/tree/master/3501-maximize-active-section-with-trade-ii) |
