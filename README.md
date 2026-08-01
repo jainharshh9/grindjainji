@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/jainharshh9/grindjainji/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/jainharshh9/grindjainji/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jainharshh9/grindjainji/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/jainharshh9/grindjainji/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainharshh9/grindjainji/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jainharshh9/grindjainji/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/jainharshh9/grindjainji/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jainharshh9/grindjainji/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jainharshh9/grindjainji/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainharshh9/grindjainji/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jainharshh9/grindjainji/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainharshh9/grindjainji/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jainharshh9/grindjainji/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainharshh9/grindjainji/tree/master/3312-sorted-gcd-pair-queries) |
@@ -198,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jainharshh9/grindjainji/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
