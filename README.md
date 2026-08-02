@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/jainharshh9/grindjainji/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainharshh9/grindjainji/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jainharshh9/grindjainji/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/jainharshh9/grindjainji/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/jainharshh9/grindjainji/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/jainharshh9/grindjainji/tree/master/1004-max-consecutive-ones-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/jainharshh9/grindjainji/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jainharshh9/grindjainji/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jainharshh9/grindjainji/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jainharshh9/grindjainji/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainharshh9/grindjainji/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jainharshh9/grindjainji/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainharshh9/grindjainji/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/jainharshh9/grindjainji/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jainharshh9/grindjainji/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainharshh9/grindjainji/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jainharshh9/grindjainji/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -209,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/jainharshh9/grindjainji/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
