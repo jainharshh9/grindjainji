@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jainharshh9/grindjainji/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/jainharshh9/grindjainji/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/jainharshh9/grindjainji/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/jainharshh9/grindjainji/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/jainharshh9/grindjainji/tree/master/1406-stone-game-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jainharshh9/grindjainji/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jainharshh9/grindjainji/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jainharshh9/grindjainji/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainharshh9/grindjainji/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/jainharshh9/grindjainji/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainharshh9/grindjainji/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jainharshh9/grindjainji/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jainharshh9/grindjainji/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/jainharshh9/grindjainji/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jainharshh9/grindjainji/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jainharshh9/grindjainji/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jainharshh9/grindjainji/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/jainharshh9/grindjainji/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/jainharshh9/grindjainji/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainharshh9/grindjainji/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainharshh9/grindjainji/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/jainharshh9/grindjainji/tree/master/3731-find-missing-elements) |
