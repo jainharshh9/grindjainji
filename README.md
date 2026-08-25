@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jainharshh9/grindjainji/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jainharshh9/grindjainji/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/jainharshh9/grindjainji/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jainharshh9/grindjainji/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jainharshh9/grindjainji/tree/master/0904-fruit-into-baskets) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainharshh9/grindjainji/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jainharshh9/grindjainji/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/jainharshh9/grindjainji/tree/master/0680-valid-palindrome-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainharshh9/grindjainji/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainharshh9/grindjainji/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jainharshh9/grindjainji/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jainharshh9/grindjainji/tree/master/0142-linked-list-cycle-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
