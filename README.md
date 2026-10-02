@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/jainharshh9/grindjainji/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/jainharshh9/grindjainji/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jainharshh9/grindjainji/tree/master/0877-stone-game) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainharshh9/grindjainji/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainharshh9/grindjainji/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jainharshh9/grindjainji/tree/master/0567-permutation-in-string) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jainharshh9/grindjainji/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -283,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
