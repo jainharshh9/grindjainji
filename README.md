@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jainharshh9/grindjainji/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jainharshh9/grindjainji/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainharshh9/grindjainji/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/jainharshh9/grindjainji/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainharshh9/grindjainji/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jainharshh9/grindjainji/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/jainharshh9/grindjainji/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jainharshh9/grindjainji/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainharshh9/grindjainji/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jainharshh9/grindjainji/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jainharshh9/grindjainji/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/jainharshh9/grindjainji/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jainharshh9/grindjainji/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainharshh9/grindjainji/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jainharshh9/grindjainji/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -290,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/jainharshh9/grindjainji/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jainharshh9/grindjainji/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
